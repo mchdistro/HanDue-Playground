@@ -1,0 +1,228 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"carryon:block": {
+			"loop": true,
+			"bones": {
+				"Root": {
+					"rotation": [2, 0, 0]
+				},
+				"UpBody": {
+					"rotation": [-15, 0, 0]
+				},
+				"Head": {
+					"rotation": [25, 0, 0]
+				},
+				"LeftArm": {
+					"rotation": [-30.42656, -1.4199, -8.57051],
+					"position": [0, -0.5, 0]
+				},
+				"LeftForeArm": {
+					"rotation": [-4.88206, 1.08089, 12.45392]
+				},
+				"LeftHandLocator": {
+					"scale": 0
+				},
+				"RightArm": {
+					"rotation": [-27.85667, -6.28156, 13.64859],
+					"position": [0, -0.5, 0]
+				},
+				"RightForeArm": {
+					"rotation": [-4.76968, -1.50179, -17.43745]
+				},
+				"RightHandLocator": {
+					"scale": 0
+				},
+				"LeftHand": {
+					"rotation": [0, 0, 0]
+				},
+				"RightHand": {
+					"rotation": [0, 0, 0]
+				},
+				"clothe": {
+					"rotation": [12.5, 0, 0]
+				},
+				"UpperBody": {
+					"rotation": [-5, 0, 0]
+				},
+				"Arm": {
+					"rotation": [-10, 0, 0]
+				}
+			}
+		},
+		"carryon:entity": {
+			"loop": true,
+			"bones": {
+				"Root": {
+					"rotation": [2, 0, 0]
+				},
+				"UpBody": {
+					"rotation": [-20, 0, 0]
+				},
+				"Head": {
+					"rotation": [30, 0, 0]
+				},
+				"LeftArm": {
+					"rotation": [-45, 5, -5],
+					"position": [0, -0.5, 0]
+				},
+				"LeftForeArm": {
+					"rotation": [-5, 0, 0]
+				},
+				"LeftHandLocator": {
+					"scale": 0
+				},
+				"RightArm": {
+					"rotation": [-45, -5, 5],
+					"position": [0, -0.5, 0]
+				},
+				"RightForeArm": {
+					"rotation": [-5, 0, 0]
+				},
+				"RightHandLocator": {
+					"scale": 0
+				},
+				"RightHand": {
+					"rotation": [0, 0, 0]
+				},
+				"LeftHand": {
+					"rotation": [0, 0, 0]
+				},
+				"clothe": {
+					"rotation": [15, 0, 0]
+				}
+			}
+		},
+		"carryon:player": {
+			"loop": true,
+			"bones": {
+				"Root": {
+					"rotation": [2, 0, 0]
+				},
+				"UpBody": {
+					"rotation": [-10, 0, 0]
+				},
+				"Head": {
+					"rotation": [10, 0, 0]
+				},
+				"LeftArm": {
+					"rotation": [-30, 5, -5],
+					"position": [0, -0.5, 0]
+				},
+				"LeftForeArm": {
+					"rotation": [-90, -47.5, 90]
+				},
+				"LeftHandLocator": {
+					"scale": 0
+				},
+				"RightArm": {
+					"rotation": [-30, -5, 5],
+					"position": [0, -0.5, 0]
+				},
+				"RightForeArm": {
+					"rotation": [-90, 47.5, -90]
+				},
+				"RightHandLocator": {
+					"scale": 0
+				},
+				"RightHand": {
+					"rotation": [0, 0, 0]
+				},
+				"LeftHand": {
+					"rotation": [0, 0, 0]
+				},
+				"clothe": {
+					"rotation": [7.5, 0, 0]
+				}
+			}
+		},
+		"carryon:princess": {
+			"loop": true,
+			"animation_length": 4.24,
+			"bones": {
+				"Root": {
+					"rotation": [0, 0, 0]
+				},
+				"AllBody": {
+					"rotation": [0, -90, -115],
+					"position": [-1, -4.5, 6]
+				},
+				"UpBody": {
+					"rotation": [50, 0, 0],
+					"position": [0, 1, 0.75]
+				},
+				"Head": {
+					"rotation": [27.5, 0, 0]
+				},
+				"LongHair": {
+					"rotation": [37.5, 0, 0]
+				},
+				"LeftArm": {
+					"rotation": [-16.77609, 44.19145, -7.81185]
+				},
+				"LeftForeArm": {
+					"rotation": {
+						"0.0": [-97.5, 0, 0],
+						"2.04": [-105, 0, 0],
+						"4.24": [-97.5, 0, 0]
+					}
+				},
+				"RightArm": {
+					"rotation": [-16.36648, -42.10287, -4.20805]
+				},
+				"RightForeArm": {
+					"rotation": {
+						"0.0": [-92.5, 0, 0],
+						"2.0": [-87.5, 0, 0],
+						"4.24": [-92.5, 0, 0]
+					}
+				},
+				"LeftLeg": {
+					"rotation": [-7.61435, 9.91358, -1.31845]
+				},
+				"LeftLowerLeg": {
+					"rotation": {
+						"0.0": [65, 0, 0],
+						"2.0": [72.5, 0, 0],
+						"2.08": [72.5, 0, 0],
+						"4.08": [65, 0, 0]
+					}
+				},
+				"LeftFoot": {
+					"relative_to": {
+						"rotation": "entity"
+					},
+					"rotation": [-303.68672, -82.01058, 268.43292]
+				},
+				"RightLeg": {
+					"rotation": [-2.17539, -10.01806, -1.21764]
+				},
+				"RightLowerLeg": {
+					"rotation": {
+						"0.0": [65, 0, 0],
+						"1.96": [57.5, 0, 0],
+						"2.08": [57.5, 0, 0],
+						"3.92": [65, 0, 0]
+					}
+				},
+				"RightFoot": {
+					"rotation": [7.5, 0, 0]
+				},
+				"RightHand": {
+					"rotation": [0, 0, 0]
+				},
+				"LeftHand": {
+					"rotation": [0, 0, 0]
+				},
+				"Tail": {
+					"rotation": [20, 0, 0],
+					"position": [0, 0, -3]
+				},
+				"clothe": {
+					"rotation": [-37.5, 0, 0],
+					"scale": [1.065, 1, 1]
+				}
+			}
+		}
+	}
+}
