@@ -1,0 +1,26 @@
+{
+  "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/HanDue-Playground/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "한드의 놀이터",
+    "description": "Minecraft 1.20.1 (Fabric v0.16.9)",
+    "icon": "https://github.com/mchdistro/HanDue-Playground/raw/main/server-icon.png",
+    "address": "handue.ddns.net",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.16.9"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["options.txt"]
+    }
+  ]
+}
