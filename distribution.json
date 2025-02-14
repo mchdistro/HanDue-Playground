@@ -22180,17 +22180,6 @@
           }
         },
         {
-          "id": ".gitignore",
-          "name": ".gitignore",
-          "type": "File",
-          "artifact": {
-            "size": 59,
-            "url": "https://github.com/mchdistro/HanDue-Playground/raw/main/servers/HanDue-Playground-1.20.1/files/config/yes_steve_model/custom/.gitignore",
-            "MD5": "92e718d35f1f44eaf9b165ee0dd844e6",
-            "path": "config/yes_steve_model/custom/.gitignore"
-          }
-        },
-        {
           "id": "arm.animation.json",
           "name": "arm.animation.json",
           "type": "File",
